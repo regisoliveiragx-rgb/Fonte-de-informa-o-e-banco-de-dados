@@ -14,5 +14,7 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 
 # Realizado a planilha no Excel com dados abertos da prefeitura de São José dos Campos 06/03/2026 
 
+https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/balancete_receita.xlsx
+
 
 
