@@ -19,7 +19,7 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 ## Grafico no modelo revisado usando o video das 31 formas
 
 # Aula 13/03/2026
-## Planilha grafica no excel utilizando dados da prefeitura
+## Planilha grafica no excel utilizando dados da Secretaria da Prefeitura
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsm%202.xlsm
 
 
