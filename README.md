@@ -22,5 +22,8 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 ## Planilha grafica no excel utilizando dados da Secretaria da Prefeitura
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsm%202.xlsm
 
+## Análise do grafico de Fornecedores
+
+
 
 
