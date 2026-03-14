@@ -16,5 +16,8 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/balancete_receita.xlsx
 
+# Aula 13/03/2026
+## Planilha grafica no excel utilizando dados da prefeitura
+https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsm%202.xlsm
 
 
