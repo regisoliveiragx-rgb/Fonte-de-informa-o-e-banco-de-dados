@@ -32,7 +32,12 @@ Utilizamos a Planilha Excel para fazer o estudo dos dados abertos da PMSJC
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsm%202.xlsm
 
 ## 13/03/2026-Análise do grafico de Fornecedores
-https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/fornecedor%202.xlsm
+[Grafico.dinamico.xlsx](https://github.com/user-attachments/files/26688107/Grafico.dinamico.xlsx)
+
+<img width="835" height="465" alt="Captura de tela 2026-04-13 173454" src="https://github.com/user-attachments/assets/eda5d476-bc01-46c1-a2ec-664694553d82" />
+
+
+
 
 
 
