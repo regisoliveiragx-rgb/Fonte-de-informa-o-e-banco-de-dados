@@ -1,7 +1,7 @@
 # Fonte-de-informa-o-e-banco-de-dados
 ## Disciplina ministrada no 1° Semestre cst gpi
 
-## 21/02/202- Apresentação do software de design gráfico "canva" 
+## 21/02/2026- Apresentação do software de design gráfico "canva" 
 Neste Projeto, utilizamos o canva para elaborar uma apresentação com os temas de acordo com a escolha do Grupo
 
 [Apresenta_compressed.pdf](https://github.com/user-attachments/files/25590035/Apresenta_compressed.pdf)
