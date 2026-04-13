@@ -7,25 +7,23 @@ Neste Projeto, utilizamos o canva para elaborar uma apresentação com os temas 
 [Apresenta_compressed.pdf](https://github.com/user-attachments/files/25590035/Apresenta_compressed.pdf)
 <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/d17dda01-4e67-457c-b14f-1a9e1872cee1" />
 
-## Aula 06/03/2026
-## Projeto Vestido de Noiva Indiano
-## Utilizado software de design gráfico "canva",com ferramentas de kickoff e Backlog, apresentando para a cliente latifa um projeto de vestido de noiva no estilo indiano.
+## Aula 06/03/2026-Projeto Vestido de Noiva Indiano
+Utilizado software de design gráfico "canva",com ferramentas de kickoff e Backlog, apresentando para a cliente latifa um projeto de vestido de noiva no estilo indiano.
 
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/IMG-20260313-WA0031.jpg
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/vestido%20de%20casamento.pdf
 
-
-## Realizado a planilha no Excel com dados abertos da prefeitura de São José dos Campos 06/03/2026 
+## 06/03/2026-Realizado a planilha no Excel com dados abertos da prefeitura de São José dos Campos
+Utilizamos a Planilha Excell para fazer o estudo dos dsados abertos da PMSJC
 
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/balancete_receita.xlsx
 
 ## Grafico no modelo revisado usando o video das 31 formas
 
-## Aula 13/03/2026
-## Planilha grafica no excel utilizando dados da Secretaria da Prefeitura
+## 13/03/2026-Planilha grafica no Excel utilizando dados da Secretaria da Prefeitura
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsm%202.xlsm
 
-## Análise do grafico de Fornecedores
+## 13/03/2026-Análise do grafico de Fornecedores
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/fornecedor%202.xlsm
 
 
