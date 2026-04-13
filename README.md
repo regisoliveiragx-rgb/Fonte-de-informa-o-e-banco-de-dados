@@ -18,6 +18,8 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 Utilizamos a Planilha Excel para fazer o estudo dos dados abertos da PMSJC
 
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/balancete_receita.xlsx
+[balancete_receita.1.xlsx](https://github.com/user-attachments/files/26687426/balancete_receita.1.xlsx)
+
 
 
 
