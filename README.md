@@ -14,13 +14,12 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 <img width="994" height="517" alt="sra latifa" src="https://github.com/user-attachments/assets/b91a2127-d2ef-4e61-9679-e050f472bb52" />
 
 
-
-
-
 ## 06/03/2026-Realizado a planilha no Excel com dados abertos da prefeitura de São José dos Campos
 Utilizamos a Planilha Excell para fazer o estudo dos dsados abertos da PMSJC
 
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/balancete_receita.xlsx
+
+
 
 ## Grafico no modelo revisado usando o video das 31 formas
 
