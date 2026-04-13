@@ -19,6 +19,9 @@ Utilizamos a Planilha Excel para fazer o estudo dos dados abertos da PMSJC
 
 [balancete_receita.1.xlsx](https://github.com/user-attachments/files/26687426/balancete_receita.1.xlsx)
 
+<img width="868" height="437" alt="balancete print" src="https://github.com/user-attachments/assets/724cf977-13e0-450b-816e-8b43b16c98f7" />
+
+
 
 
 
