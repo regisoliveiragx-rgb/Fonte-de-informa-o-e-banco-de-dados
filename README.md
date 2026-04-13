@@ -37,6 +37,7 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 <img width="835" height="465" alt="Captura de tela 2026-04-13 173454" src="https://github.com/user-attachments/assets/eda5d476-bc01-46c1-a2ec-664694553d82" />
 
 
+
 ## 29/03/2026-Fundamentos do Phyton 
 Curso realizado sobre os fundamentos do Phyton pela plataforma "Aprenda"
 [Python_Fundamental_1-Certificado_digital_3960388.pdf](https://github.com/user-attachments/files/26688310/Python_Fundamental_1-Certificado_digital_3960388.pdf)
