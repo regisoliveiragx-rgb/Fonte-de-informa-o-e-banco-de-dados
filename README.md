@@ -21,15 +21,14 @@ Utilizamos a Planilha Excel para fazer o estudo dos dados abertos da PMSJC
 
 <img width="868" height="437" alt="balancete print" src="https://github.com/user-attachments/assets/724cf977-13e0-450b-816e-8b43b16c98f7" />
 
-
-
-
-
 ## 12/03/2026-Grafico no modelo revisado usando o video das 31 formas
 
 
 ## 13/03/2026-Planilha grafica no Excel utilizando dados da Secretaria da Prefeitura
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsm%202.xlsm
+
+<img width="893" height="581" alt="Captura de tela 2026-03-13 220914" src="https://github.com/user-attachments/assets/310e42ce-d391-48e2-85b4-3a20a24eaaf2" />
+
 
 ## 13/03/2026-Análise do grafico de Fornecedores
 [Grafico.dinamico.xlsx](https://github.com/user-attachments/files/26688107/Grafico.dinamico.xlsx)
