@@ -42,6 +42,13 @@ Curso realizado sobre os fundamentos do Phyton pela plataforma "Aprenda"
 [Python_Fundamental_1-Certificado_digital_3960388.pdf](https://github.com/user-attachments/files/26688310/Python_Fundamental_1-Certificado_digital_3960388.pdf)
 <img width="844" height="581" alt="certificado phyton" src="https://github.com/user-attachments/assets/779c3e1b-ff00-4b13-96eb-13d0590a85e3" />
 
+## 10/04/2026-Analisando dados Abertos do Governo
+Nesta atividade, realizamos os dados sobre a Matrículas do INEP 2019-2023
+https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?usp=drive_link&ouid=103866129680096959978&rtpof=true&sd=true
+
+
+
+
 
 
 
