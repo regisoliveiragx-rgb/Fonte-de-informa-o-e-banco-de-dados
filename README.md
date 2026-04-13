@@ -25,7 +25,7 @@ Utilizamos a Planilha Excel para fazer o estudo dos dados abertos da PMSJC
 
 
 
-## 12/-3/2026-Grafico no modelo revisado usando o video das 31 formas
+## 12/03/2026-Grafico no modelo revisado usando o video das 31 formas
 
 
 ## 13/03/2026-Planilha grafica no Excel utilizando dados da Secretaria da Prefeitura
