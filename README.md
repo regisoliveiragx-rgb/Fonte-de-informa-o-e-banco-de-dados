@@ -21,7 +21,10 @@ Utilizamos a Planilha Excel para fazer o estudo dos dados abertos da PMSJC
 
 <img width="868" height="437" alt="balancete print" src="https://github.com/user-attachments/assets/724cf977-13e0-450b-816e-8b43b16c98f7" />
 
-## 12/03/2026-Grafico no modelo revisado usando o video das 31 formas
+## 12/03/2026-Grafico no modelo revisado usando o video das 31 dicas sobre Visualização de Dados
+
+<img width="731" height="413" alt="t5" src="https://github.com/user-attachments/assets/9e901548-b92b-4087-b89a-d0329acbebe2" />
+
 
 
 ## 13/03/2026-Planilha grafica no Excel utilizando dados da Secretaria da Prefeitura
