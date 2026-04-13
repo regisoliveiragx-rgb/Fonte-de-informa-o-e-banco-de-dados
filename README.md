@@ -46,6 +46,19 @@ Curso realizado sobre os fundamentos do Phyton pela plataforma "Aprenda"
 Nesta atividade, realizamos os dados sobre a Matrículas do INEP 2019-2023
 https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?usp=drive_link&ouid=103866129680096959978&rtpof=true&sd=true
 
+<img width="980" height="443" alt="t1" src="https://github.com/user-attachments/assets/0e24bc10-5eed-4832-9c2e-26dd81b4fcc5" />
+
+<img width="726" height="437" alt="t2" src="https://github.com/user-attachments/assets/95d12bfb-e454-46f0-8925-29379ad2ccb6" />
+
+<img width="856" height="298" alt="t3" src="https://github.com/user-attachments/assets/f087fa07-2be1-4248-ba24-c9838883513b" />
+
+<img width="772" height="252" alt="t4" src="https://github.com/user-attachments/assets/c0444552-1270-4b6b-9d77-8a4c73566434" />
+
+
+
+
+
+
 
 
 
