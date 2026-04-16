@@ -1,5 +1,5 @@
 # Fonte-de-informa-o-e-banco-de-dados
-## Disciplina ministrada no 1° Semestre cst gpi
+## Disciplina ministrada no 1° Semestre CST GPI
 
 ## 📆21/02/2026- Apresentação do software de design gráfico "canva" 
 🎸Neste Projeto, utilizamos o canva para elaborar uma apresentação com os temas de acordo com a escolha do Grupo
