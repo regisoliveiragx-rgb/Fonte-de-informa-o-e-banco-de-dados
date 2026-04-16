@@ -60,6 +60,37 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 ## 📆16/04/2026-Continuação do Trabalho sobre dados Abertos do Governo
 ✒️Nova Atividade Realizada utilizando os mesmos princípios da ativade anterior.
 
+[Relatorio_Saude_Profissionais_FINAL-1.xlsx](https://github.com/user-attachments/files/26804143/Relatorio_Saude_Profissionais_FINAL-1.xlsx)
+
+<img width="913" height="380" alt="t1" src="https://github.com/user-attachments/assets/c30ac96f-82d4-4340-8f15-5fff9a926a47" />
+
+<img width="746" height="431" alt="t2" src="https://github.com/user-attachments/assets/12b4c672-6b26-4bfc-9c6b-c941155d4fe6" />
+
+<img width="914" height="396" alt="t3" src="https://github.com/user-attachments/assets/752ce764-66bb-4ee5-9a0d-497b079ddd51" />
+
+<img width="1046" height="395" alt="t4" src="https://github.com/user-attachments/assets/895a9505-d7fc-4d15-ad65-bc3da0be195d" />
+
+<img width="975" height="439" alt="t5" src="https://github.com/user-attachments/assets/2d0225cd-2e40-44a8-aa4e-a02bfecb4d37" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
