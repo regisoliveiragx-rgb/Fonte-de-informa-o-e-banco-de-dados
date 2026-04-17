@@ -27,13 +27,13 @@ https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/
 
 
 
-## 📆13/03/2026-Planilha grafica no Excel utilizando dados da Secretaria da Prefeitura
+## 📆13/03/2026-Planilha gráfica no Excel utilizando dados da Secretaria da Prefeitura
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsm%202.xlsm
 
 <img width="893" height="581" alt="Captura de tela 2026-03-13 220914" src="https://github.com/user-attachments/assets/310e42ce-d391-48e2-85b4-3a20a24eaaf2" />
 
 
-## 📆13/03/2026-Análise do grafico de Fornecedores
+## 📆13/03/2026-Análise do gráfico de Fornecedores
 [Grafico.dinamico.xlsx](https://github.com/user-attachments/files/26688107/Grafico.dinamico.xlsx)
 
 <img width="835" height="465" alt="Captura de tela 2026-04-13 173454" src="https://github.com/user-attachments/assets/eda5d476-bc01-46c1-a2ec-664694553d82" />
