@@ -72,6 +72,24 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 
 <img width="975" height="439" alt="t5" src="https://github.com/user-attachments/assets/2d0225cd-2e40-44a8-aa4e-a02bfecb4d37" />
 
+## 📆17/04/2026- Curso de Powerbi Utilizando a Plataforma Escola do Trabalhador 4.0
+✒️Neste curso, realizei a introdução básica ao Powerbi
+
+[Uploading Certificado Power bi.pdf…]()
+
+<img width="696" height="500" alt="pwr bi" src="https://github.com/user-attachments/assets/bcee5a30-048e-42f7-8241-af3467af3419" />
+
+## 📆17/04/2026- Curso de Análise de Dado, Utilizando a Plataforma Escola do Trabalhador 4.0
+✒️Neste curso, realizei a introdução básica à Análise de Dados
+
+[Certificado Analise de Dados.pdf](https://github.com/user-attachments/files/26905732/Certificado.Analise.de.Dados.pdf)
+
+<img width="844" height="601" alt="image" src="https://github.com/user-attachments/assets/13b39818-c113-49fe-aa20-27a0b4d8c5f0" />
+
+
+
+
+
 
 
 
