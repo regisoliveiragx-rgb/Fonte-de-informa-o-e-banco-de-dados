@@ -74,8 +74,8 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 
 <img width="975" height="439" alt="t5" src="https://github.com/user-attachments/assets/2d0225cd-2e40-44a8-aa4e-a02bfecb4d37" />
 
-## 📆17/04/2026- Curso de Introdução ao Powerbi Utilizando a Plataforma Escola do Trabalhador 4.0
-✒️Neste curso, realizei a introdução básica ao Powerbi
+## 📆17/04/2026- Curso de Introdução ao PowerBi Utilizando a Plataforma Escola do Trabalhador 4.0
+✒️Neste curso, realizei a introdução básica ao PowerBi
 
 [Uploading Certificado Power bi.pdf…]()
 
