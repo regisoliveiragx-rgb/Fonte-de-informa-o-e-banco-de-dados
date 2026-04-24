@@ -91,7 +91,8 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 ## 📆23/04/2026- Usando PowerBi para Filtrar dados de Despesas
 ✒️Nesta aula Utilizamos o Powerbi para Realizar a Consulta dos dados de despesas da PMSJC 
 
-<img width="861" height="416" alt="11" src="https://github.com/user-attachments/assets/7a07a56f-d17e-492d-a974-605ff4115d2e" />
+<img width="836" height="351" alt="01" src="https://github.com/user-attachments/assets/6bc962bc-f67f-4e23-a38f-8f66d28b3244" />
+
 
 
 
