@@ -93,7 +93,8 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 
 <img width="836" height="351" alt="01" src="https://github.com/user-attachments/assets/6bc962bc-f67f-4e23-a38f-8f66d28b3244" />
 
-
+## 📆24/04/2026- Utilizando o PowerBi para fazer a análise da Receita da PMSJC
+✒️Nesta aula, Estamos Utilizando o PowerBi para fazer uma análise das Receitas arrecadadas de Janeiro á Março de 2026
 
 
 
