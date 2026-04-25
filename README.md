@@ -100,6 +100,14 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 
 
 
+## 📆24/04/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo
+✒️Nesta Aula, Fizemos 3 Visualizações diferentes pelo PowerBi, Utilizando as Técnicas de Visualização Gráfica
+
+<img width="1211" height="552" alt="02" src="https://github.com/user-attachments/assets/5ccbbc6a-5a14-4453-97d4-b77a866bfdec" />
+
+
+
+
 
 
 
