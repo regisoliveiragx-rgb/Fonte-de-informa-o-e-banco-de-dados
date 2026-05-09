@@ -111,6 +111,12 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 <img width="1359" height="586" alt="Captura de tela 2026-04-30 212931" src="https://github.com/user-attachments/assets/44332166-26e1-44a6-92c7-08c06dc98733" />
 
 
+## 📆08/05/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo - Emprego Formal
+✒️Nesta aula,realizamos uma nova análise de dados utilizando a fórmuila dax
+
+<img width="1919" height="742" alt="pwbi" src="https://github.com/user-attachments/assets/a5f5fb2f-c1fa-4a57-b194-c5c5d734b4eb" />
+
+
 
 
 
