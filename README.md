@@ -119,6 +119,19 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 
 
 
+## 📆14/05/2026- Regressão Linear Simples - Emprego 
+✒️Nesta aula,realizamos uma análise de dados utilizando o excel e construindo um grafico linear simples
+
+[Ice Cream Sales and Temperature.xlsx](https://github.com/user-attachments/files/27825052/Ice.Cream.Sales.and.Temperature.xlsx)
+
+<img width="1210" height="752" alt="Captura de tela 2026-05-15 202936" src="https://github.com/user-attachments/assets/c3df949d-3d48-4db2-bd56-eeee45991d2f" />
+
+
+
+
+
+
+
 
 
 
