@@ -136,6 +136,16 @@ https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?r
 
 <img width="924" height="552" alt="image" src="https://github.com/user-attachments/assets/1f4c543a-9df6-4020-91fe-50ae61d32d95" />
 
+## 📆15/05/2026- Regressão Linear Simples Usando Google Colab
+✒️Nesta aula, realizamos uma análise de dados do consumo de cerveja no estado de São Paulo, utilizando o google colab e construindo um grafico linear simples com ajuda da IA
+
+https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
+
+<img width="825" height="178" alt="image" src="https://github.com/user-attachments/assets/070bd759-a7dd-4b3b-a269-47864829c18c" />
+
+<img width="1003" height="560" alt="image" src="https://github.com/user-attachments/assets/e8acfd3d-dde9-406c-b2e9-88108db64c37" />
+
+
 
 
 
