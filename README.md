@@ -142,7 +142,8 @@ https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?r
 
 [Consumo_cerveja.xlsx](https://github.com/user-attachments/files/27838914/Consumo_cerveja.xlsx)
 
-<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/f68b47be-e01d-43f1-8b68-31a74f8deca1" />
+
+<img width="1569" height="781" alt="Captura de tela 22" src="https://github.com/user-attachments/assets/6e635bee-9525-4a88-a581-5b2d080e9d76" />
 
 
 ## 📆15/05/2026- Regressão Linear Simples Usando Google Colab
