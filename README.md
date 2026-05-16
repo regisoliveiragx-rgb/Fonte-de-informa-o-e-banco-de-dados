@@ -137,16 +137,16 @@ https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?r
 <img width="924" height="552" alt="image" src="https://github.com/user-attachments/assets/1f4c543a-9df6-4020-91fe-50ae61d32d95" />
 
 
-## 📆15/05/2026- Regressão Linear Simples Usando Google Colab
+## 📆15/05/2026- Regressão Linear e Gráfico de Dispersão
 ✒️Nesta aula, realizamos uma análise de dados do consumo de cerveja no estado de São Paulo, utilizando o excel e construindo um grafico de dispersão com regressão linear
 
 [Consumo_cerveja.xlsx](https://github.com/user-attachments/files/27838914/Consumo_cerveja.xlsx)
 
-
 <img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/f68b47be-e01d-43f1-8b68-31a74f8deca1" />
 
-## 📆15/05/2026- Regressão linear e Gráfico de Dispersão
-✒️Nesta aula, realizamos uma análise de dados do consumo de cerveja no estado de São Paulo, utilizando o google colab e construindo um grafico linear simples com ajuda da IA
+
+## 📆15/05/2026- Regressão Linear Simples Usando Google Colab
+✒️Nesta aula, realizamos uma análise de dados do consumo de cerveja no estado de São Paulo, utilizando o excel e construindo um grafico de dispersão com regressão linear
 
 https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
 
