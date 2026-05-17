@@ -108,7 +108,8 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 ## 📆30/04/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo
 ✒️Nesta aula,realizamos uma nova análise nos Sinistros dos meses de Janeiro a Março de 2026
 
-<img width="1359" height="586" alt="Captura de tela 2026-04-30 212931" src="https://github.com/user-attachments/assets/44332166-26e1-44a6-92c7-08c06dc98733" />
+<img width="1354" height="512" alt="30" src="https://github.com/user-attachments/assets/b10b6a6c-930a-4b89-a4da-1e3f45f836ea" />
+
 
 
 ## 📆08/05/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo - Emprego Formal
