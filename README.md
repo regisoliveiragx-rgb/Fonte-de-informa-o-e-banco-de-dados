@@ -5,6 +5,7 @@
 🎸Neste Projeto, utilizamos o canva para elaborar uma apresentação com os temas de acordo com a escolha do Grupo
 
 [Apresenta_compressed.pdf](https://github.com/user-attachments/files/25590035/Apresenta_compressed.pdf)
+
 <img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/d17dda01-4e67-457c-b14f-1a9e1872cee1" />
 
 ## 📆Aula 06/03/2026-Projeto Vestido de Noiva Indiano
