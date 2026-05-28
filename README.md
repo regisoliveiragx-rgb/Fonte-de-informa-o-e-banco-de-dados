@@ -159,10 +159,12 @@ https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
  
 
 ## 📆22/05/2026- Dashboard no Power Bi 
-✒️Nesta aula, fizemos um dashboard no powerbi utilando dados do kaggler sobre ice cream e consumo de bebidas em São Paulo
+✒️Nesta aula, fizemos um dashboard no powerbi utilizando dados do kaggler sobre ice cream e consumo de bebidas em São Paulo
 
 [Temperatura.xlsx](https://github.com/user-attachments/files/28371120/Temperatura.xlsx)
+
 [Consumo_cerveja.xlsx](https://github.com/user-attachments/files/28371119/Consumo_cerveja.xlsx)
+
 [Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/28371118/Ice.Cream.Sales.-.temperatures.xlsx)
 
 <img width="1919" height="751" alt="Captura de tela 2026-05-28 204959" src="https://github.com/user-attachments/assets/763b985f-f2b8-4c36-998d-08ce726a5521" />
