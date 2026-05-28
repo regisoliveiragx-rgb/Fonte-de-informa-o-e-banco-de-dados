@@ -12,6 +12,7 @@
 ✒️Utilizado software de design gráfico "canva",com ferramentas de kickoff e Backlog, apresentando para a cliente latifa um projeto de vestido de noiva no estilo indiano.
 
 https://github.com/regisoliveiragx-rgb/Fonte-de-informa-o-e-banco-de-dados/blob/main/vestido%20de%20casamento.pdf
+
 <img width="994" height="517" alt="sra latifa" src="https://github.com/user-attachments/assets/b91a2127-d2ef-4e61-9679-e050f472bb52" />
 
 
