@@ -173,7 +173,8 @@ https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
 
 
 
-
+## 📆29/05/2026- Avaliação Dashboard no Power Bi 
+✒️Nesta aula, fizemos um dashboard sobre nupcialidade
 
 
 
