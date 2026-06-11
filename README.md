@@ -115,9 +115,18 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 
 
 ## 📆08/05/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo - Emprego Formal
-✒️Nesta aula,realizamos uma nova análise de dados utilizando a fórmuila dax
+✒️Nesta aula,realizamos uma nova construção de dashboard com a análise de dados utilizando a fórmuila dax juntamento com os dados abertos de Emprego Formal
+
+✒️Nesta mesma aula, utilizamos esse dashboard para responder duas perguntas:
+
+⁉️ Em qual ano e mês houve o menor saldo de movimentação? E o maior?
+
+⁉️ Em qual ano a média de movimentação foi maior que zero?
 
 <img width="1919" height="742" alt="pwbi" src="https://github.com/user-attachments/assets/a5f5fb2f-c1fa-4a57-b194-c5c5d734b4eb" />
+
+<img width="1360" height="551" alt="image" src="https://github.com/user-attachments/assets/8f0a4a90-f96b-4738-8499-8232e456990f" />
+
 
 
 
