@@ -95,15 +95,9 @@ https://docs.google.com/spreadsheets/d/1XUe980oWSQkD00DUN6GTsey7LCBumjMP/edit?us
 
 <img width="836" height="351" alt="01" src="https://github.com/user-attachments/assets/6bc962bc-f67f-4e23-a38f-8f66d28b3244" />
 
-## 📆24/04/2026- Utilizando o PowerBi para fazer a análise da Receita da PMSJC
-✒️Nesta aula, Estamos Utilizando o PowerBi para fazer uma análise das Receitas arrecadadas de Janeiro á Março de 2026
-
-
-
-
 
 ## 📆24/04/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo
-✒️Nesta Aula, Fizemos 3 Visualizações diferentes pelo PowerBi, Utilizando as Técnicas de Visualização Gráfica
+✒️Nesta Aula, Fizemos 3 Visualizações diferentes pelo PowerBi, Utilizando as Técnicas de Visualização Gráfica com figuras ilustrativas.
 
 <img width="1211" height="552" alt="02" src="https://github.com/user-attachments/assets/5ccbbc6a-5a14-4453-97d4-b77a866bfdec" />
 
